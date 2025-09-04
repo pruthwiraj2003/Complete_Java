@@ -1,0 +1,9 @@
+
+public class Message {
+  public static void main(String[] args) {
+    
+  }
+  public static void message(){
+    System.out.println("You are the very talanted student ever");
+  }
+}
