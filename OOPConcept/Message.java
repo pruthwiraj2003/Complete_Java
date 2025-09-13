@@ -4,6 +4,6 @@ public class Message {
     
   }
   public static void message(){
-    System.out.println("You are the very talanted student ever");
+    System.out.println("You are a very talanted student ever");
   }
 }
