@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandeling/ExceptionHandeling.iml" filepath="$PROJECT_DIR$/ExceptionHandeling/ExceptionHandeling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NEW_JAVA_CLASSES.iml" filepath="$PROJECT_DIR$/NEW_JAVA_CLASSES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPConcept/OOPConcept.iml" filepath="$PROJECT_DIR$/OOPConcept/OOPConcept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop_Revession/oop_Revession.iml" filepath="$PROJECT_DIR$/oop_Revession/oop_Revession.iml" />
+    </modules>
+  </component>
+</project>

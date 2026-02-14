@@ -1,13 +1,15 @@
-
-public class Main{
+public class Main {
   public static void main(String[] args) {
-    LL list = new LL();  
-    list.insertFirst(3);
-    list.insertFirst(4);
-    list.insertFirst(5);
-    list.insertFirst(6);
-    list.insertFirst(7);
-    list.insertLast(99);
+    LL list = new LL();
+    list.insertFirst(34);
+    list.insertFirst(54);
+    list.insertFirst(24);
+    list.insertLast(45);
+    list.insertFirst(39);
+    list.insertFirst(37);
+    list.insert(100, 3);
     list.display();
+
   }
+  
 }

@@ -1,4 +1,4 @@
-
+// Selection Sort : - choose the element and put it into yhe correct index in the array
 import java.util.Arrays;
 
 public class SelectionSort{

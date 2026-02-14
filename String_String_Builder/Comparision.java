@@ -9,7 +9,7 @@ public class Comparision {
         String name2=new String("Anita");
         System.out.println(name1==name2);
         System.out.println(name1.equals(name2));
-        System.out.println(name1.charAt(0 ));
+        System.out.println(name1.charAt(0));
     }
     
 }
